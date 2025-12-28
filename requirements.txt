@@ -1,0 +1,25 @@
+# Core ML
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.3
+scipy>=1.9
+joblib>=1.3
+ezyml==1.2.1
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.27
+
+# Data validation
+pydantic>=2.5
+
+# Utilities
+python-dotenv>=1.0
+loguru>=0.7
+
+# ---- Agentic AI (keep optional but ready) ----
+# langchain>=0.1.20
+# langchain-community>=0.0.30
+smolagents>=0.1.0
+
+# ---- Optional (future observability) ----
+# prometheus-client>=0.19

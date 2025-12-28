@@ -1,0 +1,6 @@
+{
+  "cold_start_rate": 0.28,
+  "mean_similarity": 0.252421115995067,
+  "query_count_24h": 200,
+  "last_retrain_days": 0
+}
